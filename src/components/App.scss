@@ -1,0 +1,23 @@
+$orange: orange;
+
+.btn{
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    font-size: 30px + 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 7px 10px;
+    margin: 15px 0;
+    background-color: $orange;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.icon{
+    color: green;
+    width: 500px;
+    height: 500px;
+}
